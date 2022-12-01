@@ -13,7 +13,8 @@ import org.mozilla.javascript.Scriptable;
 
 
 public class MainActivity extends AppCompatActivity {
-    Button btn0,btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9,btnPersen,btnTambah,btnKurang,btnKali,btnBagi, btnHasil, btnHapus, btnTitik,btnBackspace;
+    Button btn0, btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9,
+            btnPersen, btnTambah, btnKurang, btnKali, btnBagi, btnHasil, btnHapus, btnTitik, btnBackspace;
     TextView angkaMasuk, angkaKeluar;
     String process;
 
@@ -46,7 +47,6 @@ public class MainActivity extends AppCompatActivity {
         btnTitik = findViewById(R.id.btnTitik);
         btnPersen = findViewById(R.id.btnPersen);
         btnBackspace = findViewById(R.id.btnBackspace);
-
 
 
         btnHapus.setOnClickListener(new View.OnClickListener() {
