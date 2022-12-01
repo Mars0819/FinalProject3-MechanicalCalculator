@@ -5,4 +5,3 @@
 <li>Hani Fatul Hikmah - JVAN-KS04-021-Mengerjakan backend samadengan dan kalibataku<br>
 
 Aplikasi Mechanical Calculator ini dibuat  untuk salah satu syarat kelulusan kami dari kampus merdeka Di Hacktiv8 program Android With Java Native for Android develpement.<br><hr>
-Aplikasi ini menggunakan Java dan SQLlite dengan dilengkapi fitur didalamnya :<br>
